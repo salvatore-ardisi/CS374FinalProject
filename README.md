@@ -8,4 +8,11 @@ We want to make completing assignments more manageable in a timely fashion. The 
 
 2. Who are the users you are targeting? Please use a Persona to describe your users and draw a picture of your target user. 
 
-This application is intended for students who struggle with time management and organization in completing assignments. However, it can be intended for anyone wanting to focus on completing several multi-step tasks for a given period of time. Kevin is a student who has several projects and assignments to complete by a deadline. He struggles to find the time taken to complete each assignment and does not know where to start. He would love an app that allows him to plan all his assignments, steps/time taken to complete each assignment, and a time management technique to use in order to manage his time more efficiently. He also would like a few tips on how to stay more productive when completing these tasks. 
+This application is intended for students who struggle with time management and organization in completing assignments. However, it can be intended for anyone wanting to focus on completing several multi-step tasks for a given period of time. Kevin is a student who has several projects and assignments to complete by a deadline. He struggles to find the time taken to complete each assignment and does not know where to start. He would love an app that allows him to plan all his assignments, steps/time taken to complete each assignment, and a time management technique to use in order to manage his time more efficiently. He also would like a few tips on how to stay more productive when completing these tasks.
+
+3. What are the major features of the solution? List the features.
+
+Some major features include:
+Task/project list with the ability to add due dates, task steps, and descriptions to minimize project generalization
+Pomodoro timer for completing a specific task and break timer
+Helpful tips for staying productive, including Google maps to show local study spots (libraries, cafes, etc)
