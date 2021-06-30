@@ -24,4 +24,8 @@ There are  many apps on the app store that combine the Pomodoro Technique and or
 ![Screenshot_20210629-214412](https://user-images.githubusercontent.com/85172362/123892148-07571980-d928-11eb-8fc3-1c5dab2d7017.png)
 ![Screenshot_20210629-220913](https://user-images.githubusercontent.com/85172362/123892149-07571980-d928-11eb-90ef-bb797cd19629.png)
 
+5. What technologies, APIs etc will you be using to develop this solution?
+
+We will be using a few technologies in developing our application. We are planning to use Firebase and Google Task API to store user’s data for assignments and tasks, and consequently be able to delete those tasks when finished. The website to Firebase: https://firebase.google.com/. The website to Google Task API: https://developers.google.com/tasks. Additionally, we will use Google Maps API that will show the nearest places for studying such as libraries, cafes, etc. The website to Google Maps APIs is: https://developers.google.com/maps.
+
 
