@@ -12,7 +12,7 @@ This application is intended for students who struggle with time management and 
 
 3. What are the major features of the solution? List the features.
 
-Some major features include:
+Some major features include: 
 Task/project list with the ability to add due dates, task steps, and descriptions to minimize project generalization
 Pomodoro timer for completing a specific task and break timer
 Helpful tips for staying productive, including Google maps to show local study spots (libraries, cafes, etc)
