@@ -28,6 +28,6 @@ There are  many apps on the app store that combine the Pomodoro Technique and or
 
 We will be using a few technologies in developing our application. We are planning to use Firebase and Google Task API to store user’s data for assignments and tasks, and consequently be able to delete those tasks when finished. The website to Firebase: https://firebase.google.com/. The website to Google Task API: https://developers.google.com/tasks. Additionally, we will use Google Maps API that will show the nearest places for studying such as libraries, cafes, etc. The website to Google Maps APIs is: https://developers.google.com/maps.
 
-#Design Using Proto.io
+# Design Using Proto.io
 
 
