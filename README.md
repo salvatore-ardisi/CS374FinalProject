@@ -34,3 +34,11 @@ The following link made with Proto.io: https://pr.to/6OT9NY/
 
 Here are screenshots of the designs below:
 
+![image (1)](https://user-images.githubusercontent.com/85172362/124371765-edcd0f00-dc52-11eb-8c95-55a849d7f564.png)
+![image (2)](https://user-images.githubusercontent.com/85172362/124371766-ee65a580-dc52-11eb-99cd-1d621f8e1ff7.png)
+![image (3)](https://user-images.githubusercontent.com/85172362/124371763-edcd0f00-dc52-11eb-8e2c-0b103d9d7eb3.png)
+![image (4)](https://user-images.githubusercontent.com/85172362/124371762-edcd0f00-dc52-11eb-833e-77a3f7fa1ade.png)
+![image (5)](https://user-images.githubusercontent.com/85172362/124371761-edcd0f00-dc52-11eb-8472-0ba8667a01a9.png)
+![image (6)](https://user-images.githubusercontent.com/85172362/124371760-ed347880-dc52-11eb-9086-a37fc62765ea.png)
+
+
