@@ -27,6 +27,7 @@
         android:layout_gravity="center_horizontal|center_vertical"
         android:background="@drawable/rounded_textview"
         android:fontFamily="@font/roboto_medium"
+        android:elevation="3dp"
         android:gravity="center"
         android:text="25:00"
         android:textAlignment="center"

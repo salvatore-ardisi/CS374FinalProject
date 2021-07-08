@@ -21,6 +21,7 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/tasks_data"
         android:layout_width="match_parent"
+        android:elevation="2dp"
         android:layout_height="match_parent"
         android:layout_marginTop="90dp"
         android:background="@color/task_view_background_color" />
