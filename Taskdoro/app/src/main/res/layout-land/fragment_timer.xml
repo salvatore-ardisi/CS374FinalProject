@@ -30,7 +30,6 @@
         android:background="@drawable/rounded_textview_small"
         android:fontFamily="@font/roboto_medium"
         android:gravity="center"
-        android:elevation="3dp"
         android:text="25:00"
         android:textAlignment="center"
         android:textColor="@android:color/black"
