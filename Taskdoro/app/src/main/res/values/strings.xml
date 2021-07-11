@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Taskdoro</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Timer</string>
+    <string name="tab_text_2">Tasks</string>
+    <string name="tab_text_3">Tips</string>
+    <string name="motivation_text">You got this! Keep going!</string>
+    <string name="to_do_textview">TO DO</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Normal map</string>
+    <string name="hybrid_map">Hybrid map</string>
+    <string name="satellite_map">satellite map</string>
+    <string name="terrain_map">Terrain map</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="instructions_text_view">Please enter the employee\'s name below.</string>
+    <string name="hint_first_name">First name</string>
+    <string name="hint_last_name">Last name</string>
+    <string name="button_add_employee">ADD EMPLOYEE</string>
+</resources>
