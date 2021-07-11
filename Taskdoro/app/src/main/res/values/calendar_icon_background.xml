@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="calendar_icon_background">#FFFFFF</color>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calendar_icon_background">#FFFFFF</color>
+>>>>>>> e30eed1c9b9356636953eb204ae7b4db6611904c
 </resources>
